@@ -1,0 +1,5 @@
+old/
+.vscode/
+*.old
+main
+MinecraftSyntaxParser.*
